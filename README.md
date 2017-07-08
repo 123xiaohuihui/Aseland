@@ -17,20 +17,26 @@ Please contact Jianyi at Bassethound(wechat) or jianyiren@gmail.com. If you are 
 
 
 
-#### Ad in Chinese
-域名买了： Ase.land。 名字很帅气很温暖有木有！（而且都要过期了，楼主的拖延癌。。不说了(ノへ￣、） 
 
-抱歉拖了这么久。楼主因为是自学，折腾到现在终于跌跌撞撞前段后端基本都摸了一遍。 
+#### Contributors
+Editor: 懒懒，苏西， 黄小人
+
+FrontEnd: 
+
+BackEnd: hstlc, [可乐](www.github.com/Jianyi-Ren)
+
+
+
+#### Chinese Introduction
+准备给无性恋小组社区搭一个Web/Mobile APP
+
+域名买了： Ase.land。 名字很帅气很温暖有木有！（而且都要过期了，楼主的拖延癌。。不说了(ノへ￣、） 
 
 现在招聘合作的小伙伴 
 1. 会前端的。 Web 或者 mobile都行 
 2. 会后端的。应该是会写microservice，我们好好讨论一下构架，然后分工写service。 
 3. 吃瓜群众/心理学从业者/文字编辑工作者。 
 帮忙整理一下网站科普部分的图文。复制黏贴需要注明出处，规范引用。如果用有版权保护的内容，要征求原作者同意。 
+如果有兴趣参加，请联系Jianyi(微信BassetHound，邮件Jianyiren@gmail.com)。目前比较缺前端
 
-
-#### Contributors
-Editor: 懒懒，苏西， 黄小人
-FrontEnd: 
-BackEnd: hstlc, [可乐](www.github.com/Jianyi-Ren)
 
