@@ -1,26 +1,19 @@
 # Aseland
 
 #### Goal
-Asexuality, sometimes considered a lack of sexual orientation, is a low/absent desire for sexual activity and a lack of sexual attraction to anyone. 
-
-Here w are planning to build a dating web/mobile app to help the asextual population in China to look for romantic non-sexual partnership. 
+Asexuality, sometimes considered a lack of sexual orientation, is a low/absent desire for sexual activity and a lack of sexual attraction to anyone. Here w are planning to build a dating web/mobile app to help the asextual population in China to look for romantic non-sexual partnership. 
 
 
 #### Our Plan
 
-I started this project as a capstone project for coursear full stack web devleopment specilaiziton. Since I took a CS degree later, I kinda left the project unfinished after the prototying and UML design. Now I am thinking of finising it, and am looking for volunteers to do it together.
+I started this project as a capstone project for coursear full stack web devleopment specilaiziton. Since I later joined a CS master program which granted me access to more systemtic training in programming, I put aside this project. 
 
-The prototype can be found at [prototype](https://github.com/Jianyi-Ren/Aseland/blob/master/2-Prototype/UI%20report.pdf)
+The prototype and the architectural UML have been finished, as can be found at [prototype](https://github.com/Jianyi-Ren/Aseland/blob/master/2-Prototype/UI%20report.pdf)and [UML](https://github.com/Jianyi-Ren/Aseland/blob/master/3-Architecture/UML.jpeg)
 
-The architectural UML can be found at [UML](https://github.com/Jianyi-Ren/Aseland/blob/master/3-Architecture/UML.jpeg)
+Now I am looking for interested folks to finish it together. 
 
-#### Join the team
 Please contact Jianyi at Bassethound(wechat) or jianyiren@gmail.com. If you are interested in joining.
 
-
-
-
-#### Currently Recruited Volunteers
 Editor: 懒懒，苏西， 黄小人
 
 FrontEnd: 
