@@ -8,6 +8,8 @@ Here w are planning to build a dating web/mobile app to help the asextual popula
 
 #### Our Plan
 
+I started this project as a capstone project for coursear full stack web devleopment specilaiziton. Since I took a CS degree later, I kinda left the project unfinished after the prototying and UML design. Now I am thinking of finising it, and am looking for volunteers to do it together.
+
 The prototype can be found at [prototype](https://github.com/Jianyi-Ren/Aseland/blob/master/2-Prototype/UI%20report.pdf)
 
 The architectural UML can be found at [UML](https://github.com/Jianyi-Ren/Aseland/blob/master/3-Architecture/UML.jpeg)
@@ -37,6 +39,10 @@ BackEnd: hstlc, [可乐](www.github.com/Jianyi-Ren)
 2. 会后端的。应该是会写microservice，我们好好讨论一下构架，然后分工写service。 
 3. 吃瓜群众/心理学从业者/文字编辑工作者。 
 帮忙整理一下网站科普部分的图文。复制黏贴需要注明出处，规范引用。如果用有版权保护的内容，要征求原作者同意。 
+
+是个开源项目。没有报酬（做好了楼主自己掏腰包付server的钱）。如果你愿意你的名字会出现在开发者和贡献者的page里。 
+
 如果有兴趣参加，请联系Jianyi(微信BassetHound，邮件Jianyiren@gmail.com)。目前比较缺前端
+谢谢大家！ 
 
 
