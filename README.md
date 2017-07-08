@@ -27,7 +27,7 @@ BackEnd: hstlc, [可乐](www.github.com/Jianyi-Ren)
 
 
 
-#### Chinese Introduction
+#### 中文简介
 准备给无性恋小组社区搭一个Web/Mobile APP
 
 域名买了： Ase.land。 名字很帅气很温暖有木有！（而且都要过期了，楼主的拖延癌。。不说了(ノへ￣、） 
