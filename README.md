@@ -1,10 +1,6 @@
 # Aseland
 
-#### Goal
 Asexuality, sometimes considered a lack of sexual orientation, is a low/absent desire for sexual activity and a lack of sexual attraction to anyone. Here w are planning to build a dating web/mobile app to help the asextual population in China to look for romantic non-sexual partnership. 
-
-
-#### Our Plan
 
 I started this project as a capstone project for coursear full stack web devleopment specilaiziton. Since I later joined a CS master program which granted me access to more systemtic training in programming, I put aside this project. 
 
