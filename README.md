@@ -10,17 +10,9 @@ I started this project as a capstone project for coursear full stack web devleop
 
 The prototype and the architectural UML have been finished, as can be found at [prototype](https://github.com/Jianyi-Ren/Aseland/blob/master/2-Prototype/UI%20report.pdf)and [UML](https://github.com/Jianyi-Ren/Aseland/blob/master/3-Architecture/UML.jpeg)
 
-Now I am looking for interested folks to finish it together. 
+Now I am looking for interested folks to finish it together. At this moment we've had 5 people. 3 text editors and 2 backend engineers. Still looking for frontend engineers.
 
-Please contact Jianyi at Bassethound(wechat) or jianyiren@gmail.com. If you are interested in joining.
-
-Editor: 懒懒，苏西， 黄小人
-
-FrontEnd: 
-
-BackEnd: hstlc, [可乐](www.github.com/Jianyi-Ren)
-
-
+If you are interested, please contact Jianyi at Bassethound(wechat) or jianyiren@gmail.com
 
 #### 中文简介
 准备给无性恋小组社区搭一个Web/Mobile APP
