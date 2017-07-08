@@ -20,7 +20,7 @@ Please contact Jianyi at Bassethound(wechat) or jianyiren@gmail.com. If you are 
 
 
 
-#### Contributors
+#### Currently Recruited Volunteers
 Editor: 懒懒，苏西， 黄小人
 
 FrontEnd: 
