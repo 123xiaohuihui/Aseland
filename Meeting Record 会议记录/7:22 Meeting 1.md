@@ -9,14 +9,14 @@
 |前端web|Phoebe|
 |前端Mobile|可乐|
 
-### 成果
+## 成果
 1. 测试了了QQ， Slack， Teamviewer和Skype通话质量。确定Skype作为通讯工具
 2. 确定石墨作为小组文档交流工具
 3. 确定了Github作为version control的工具。 
     暂时代码库地址:
 https://github.com/Jianyi-Ren/Aseland/blob/master/2-Prototype/UI%20report.pdf
 
-### 过程
+## 过程
 
 ##### - 自我介绍
 
@@ -31,7 +31,7 @@ https://github.com/Jianyi-Ren/Aseland/blob/master/2-Prototype/UI%20report.pdf
 姬茁茁介绍APP开发常规流程
 需求列表->需求文档+预计工期 ->技术评估（增删）-> 确定一期必须要完成的任务，接口时间，QA时间（UT，压测）
 
-# 任务
+## 下周任务
 请大家下次来之前每人想5个核心需求作为一期要完成的任务。
 下周的meeting将讨论一期项目要完成的核心功能。
 
