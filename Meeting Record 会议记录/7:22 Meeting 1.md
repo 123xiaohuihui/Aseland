@@ -18,7 +18,7 @@ https://github.com/Jianyi-Ren/Aseland/blob/master/2-Prototype/UI%20report.pdf
 
 ## 过程
 
-##### - 自我介绍
+### 自我介绍
 
 - 姬茁茁：经济本科，三年PM经验。监督过经济类和教育类APP开发。
 - 李琛：计算机本科。三年后端经验。 
@@ -27,7 +27,7 @@ https://github.com/Jianyi-Ren/Aseland/blob/master/2-Prototype/UI%20report.pdf
 
 
 
-##### - 大致讨论进度
+### 大致讨论进度
 姬茁茁介绍APP开发常规流程
 需求列表->需求文档+预计工期 ->技术评估（增删）-> 确定一期必须要完成的任务，接口时间，QA时间（UT，压测）
 
