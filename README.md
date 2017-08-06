@@ -2,9 +2,11 @@
 
 Asexuality, sometimes considered a lack of sexual orientation, is a low/absent desire for sexual activity and a lack of sexual attraction to anyone. Here we are building a dating web/mobile app to help the asextual population in China to look for romantic non-sexual partnership. 
 
-The projec development progress can be viewed at [Project logs](https://github.com/Jianyi-Ren/Aseland/tree/master/Document/Project%20Log)
 
 This is an open source APP. If you are interested in contributing, please contact Jianyi at Bassethound(wechat) or jianyiren@gmail.com
+
+
+The development progress of Project Aseland can be viewed at [Project logs](https://github.com/Jianyi-Ren/Aseland/tree/master/Document/Project%20Log)
 
 
 #### 中文简介
