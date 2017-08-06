@@ -6,7 +6,7 @@ Asexuality, sometimes considered a lack of sexual orientation, is a low/absent d
 This is an open source APP. If you are interested in contributing, please contact Jianyi at Bassethound(wechat) or jianyiren@gmail.com
 
 
-The development progress of Project Aseland can be viewed at [Project logs](https://github.com/Jianyi-Ren/Aseland/tree/master/Document/Project%20Log)
+The development progress of Project Aseland can be viewed at [Project logs](https://github.com/aseland/Aseland/tree/master/Document/Project%20Log)
 
 
 #### 中文简介
@@ -24,7 +24,7 @@ The development progress of Project Aseland can be viewed at [Project logs](http
 
 是个开源项目。没有报酬（做好了楼主自己掏腰包付server的钱）。如果你愿意你的名字会出现在开发者和贡献者的page里。 
 
-如果有兴趣参加，请联系Jianyi(微信BassetHound，邮件Jianyiren@gmail.com)。目前比较缺前端
+如果有兴趣参加，请联系Aseland小组（邮件aseland2017@gmail.com)。目前比较缺前端
 谢谢大家！ 
 
 
