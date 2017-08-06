@@ -1,12 +1,7 @@
 # Aseland
 
-Asexuality, sometimes considered a lack of sexual orientation, is a low/absent desire for sexual activity and a lack of sexual attraction to anyone. Here w are planning to build a dating web/mobile app to help the asextual population in China to look for romantic non-sexual partnership. 
+Asexuality, sometimes considered a lack of sexual orientation, is a low/absent desire for sexual activity and a lack of sexual attraction to anyone. Here we are building a dating web/mobile app to help the asextual population in China to look for romantic non-sexual partnership. 
 
-I started this project as a capstone project for coursear full stack web devleopment specilaiziton. Since I later joined a CS master program which granted me access to more systemtic training in programming, I put aside this project. 
-
-The prototype and the architectural UML have been finished, as can be found at [prototype](https://github.com/Jianyi-Ren/Aseland/blob/master/2-Prototype/UI%20report.pdf)and [UML](https://github.com/Jianyi-Ren/Aseland/blob/master/3-Architecture/UML.jpeg)
-
-Now I am looking for interested folks to finish it together. At this moment we've had 5 people. 3 text editors and 2 backend engineers. Still looking for frontend engineers.
 
 If you are interested, please contact Jianyi at Bassethound(wechat) or jianyiren@gmail.com
 
