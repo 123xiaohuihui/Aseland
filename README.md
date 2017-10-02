@@ -1,4 +1,5 @@
 # Aseland
+（Prototype:[http://l3lq5r.axshare.com](http://l3lq5r.axshare.com/#g=1&p=页面流程图))
 
 Asexuality, sometimes considered a lack of sexual orientation, is a low/absent desire for sexual activity and a lack of sexual attraction to anyone. Here we are building a dating web/mobile app to help the asextual population in China to look for romantic non-sexual partnership. 
 
